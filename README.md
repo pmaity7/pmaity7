@@ -1,4 +1,8 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN3aXZlbnl6MnQ1bW9kODF2OXk0aW1mOHVsdDd4M25xNjBuejQ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="400"/>
+</div>
+
 
 <!--
 **pmaity7/pmaity7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
