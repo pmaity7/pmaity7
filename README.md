@@ -14,10 +14,13 @@
   <div>
   <img src="https://komarev.com/ghpvc/?username=pmaity7&style=flat-square&color=blue" alt=""/>
 </div>
+  <h1>
+    Hi there 👋
+  </h1>
 </div>
 
 
-## Hi there 👋
+
 
 
 <!--
