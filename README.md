@@ -1,3 +1,6 @@
+<!-- <div align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamMybjM2cDIwbnJyajg5cWQzMnJsMDA2ajRpcHFkc29xcTkyNWc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="900" height="450" alt="hands typing on keyboard showing monitor"/>
+</div> -->
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN3aXZlbnl6MnQ1bW9kODF2OXk0aW1mOHVsdDd4M25xNjBuejQ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="400"/>
 </div>
@@ -17,9 +20,6 @@
   <h1>
     Hi there 👋
   </h1>
-  <div>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamMybjM2cDIwbnJyajg5cWQzMnJsMDA2ajRpcHFkc29xcTkyNWc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="900" height="450" alt="hands typing on keyboard showing monitor"/>
-  </div>
 </div>
 
 ---
