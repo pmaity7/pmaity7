@@ -26,9 +26,9 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to Frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Artificial Intelligence, Gen AI and Deep Reinforcement learning
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
