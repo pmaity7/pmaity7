@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/pallavi-maity/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCIgdmlld0JveD0iMCwwLDI1NiwyNTYiPgo8ZyBmaWxsPSIjZmZmZmZmIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48ZyB0cmFuc2Zvcm09InNjYWxlKDguNTMzMzMsOC41MzMzMykiPjxwYXRoIGQ9Ik0yNCw0aC0xOGMtMS4xMDUsMCAtMiwwLjg5NSAtMiwydjE4YzAsMS4xMDUgMC44OTUsMiAyLDJoMThjMS4xMDUsMCAyLC0wLjg5NSAyLC0ydi0xOGMwLC0xLjEwNSAtMC44OTUsLTIgLTIsLTJ6TTEwLjk1NCwyMmgtMi45NXYtOS40OTJoMi45NXpNOS40NDksMTEuMTUxYy0wLjk1MSwwIC0xLjcyLC0wLjc3MSAtMS43MiwtMS43MmMwLC0wLjk0OSAwLjc3LC0xLjcxOSAxLjcyLC0xLjcxOWMwLjk0OCwwIDEuNzE5LDAuNzcxIDEuNzE5LDEuNzE5YzAsMC45NDkgLTAuNzcxLDEuNzIgLTEuNzE5LDEuNzJ6TTIyLjAwNCwyMmgtMi45NDh2LTQuNjE2YzAsLTEuMTAxIC0wLjAyLC0yLjUxNyAtMS41MzMsLTIuNTE3Yy0xLjUzNSwwIC0xLjc3MSwxLjE5OSAtMS43NzEsMi40Mzd2NC42OTZoLTIuOTQ4di05LjQ5MmgyLjgzdjEuMjk3aDAuMDRjMC4zOTQsLTAuNzQ2IDEuMzU2LC0xLjUzMyAyLjc5MSwtMS41MzNjMi45ODcsMCAzLjUzOSwxLjk2NiAzLjUzOSw0LjUyMnoiPjwvcGF0aD48L2c+PC9nPgo8L3N2Zz4=" alt="LinkedIn Badge"/>
     </a>
-  <a href="mailto:dmaity897@gmail.com">
+  <a href="mailto:pallavimaity@protonmail.com">
   <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
      </a>
   <div>
@@ -26,13 +26,15 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to Frontend for building web applications.
+- :telescope: I’m working as a Software Engineer specializing in Frontend for building web applications.
+
+- :chart_with_upwards_trend: Worked extensively on analytics, performance optimizations and responsive applications.
 
 - :seedling: Exploring Artificial Intelligence, Gen AI and Deep Reinforcement learning
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-maity/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-maity/)
 
 ---
 
