@@ -12,11 +12,14 @@
   <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
      </a>
   <div>
-  <img src="https://komarev.com/ghpvc/?username=pmaity7&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=pmaity7&style=flat-square&color=blue" alt="profile views counter"/>
 </div>
   <h1>
     Hi there 👋
   </h1>
+  <div>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamMybjM2cDIwbnJyajg5cWQzMnJsMDA2ajRpcHFkc29xcTkyNWc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="900" height="450" alt="hands typing on keyboard showing monitor"/>
+  </div>
 </div>
 
 
